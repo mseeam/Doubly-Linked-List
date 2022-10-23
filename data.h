@@ -19,8 +19,8 @@ struct Data {
 
 struct Node {
     Data data;
-    Node *next;
-    Node *prev;
+    Node* next;
+    Node* prev;
 };
 
 #endif /* DATA_H */
